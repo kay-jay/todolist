@@ -12,6 +12,7 @@ object ApplicationBuild extends Build {
     jdbc,
     anorm,
     "com.typesafe.slick" %% "slick" % "1.0.0",
+    "com.typesafe.play" %% "play-slick" % "0.3.2",
     "joda-time" % "joda-time" % "2.2"
   )
 
